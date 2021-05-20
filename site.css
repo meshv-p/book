@@ -1,0 +1,152 @@
+body {
+    margin: 0;padding: 0;
+}
+header{
+    margin-top: 0px;
+    margin-left: 0px;
+
+}
+.first{
+    background-color: rgb(51, 53, 69);
+    height: 50px;
+    margin-top: 0px;
+   
+}
+span{
+    position: relative;
+    /* margin: 20px 10px; */
+    top: 0px;
+    left: 23px;
+    font-size: 22px;
+    color: white
+
+}
+
+#my{
+    color: red;
+    margin-left: -5px;
+    left: 1px;
+    position: relative;
+}
+.se {
+    display: inline-block;
+}
+input[type="search"]{
+    margin-left: 15px;
+    margin-top: 12px;
+    height: 25px;
+    width: 400px;
+    padding: 10px  27px;
+    border-radius: 5px;
+    border: none;
+    overflow: none;
+}
+.fa-search{
+    position: relative;
+    color: black;
+    left: 38px;
+
+}
+
+#label{
+    margin-left: 553px;
+    
+}
+#city{
+    width: 100px;
+    height: 25px;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+option{
+    background-color: white;
+    color: rgb(51, 53, 69);
+}
+
+input[type="submit"]{
+    background-color: rgb(175, 41, 41);
+    border-radius: 5px;
+    border: none;
+    width: 60px;
+    margin-left: 10px;
+    height: 25px;
+   color: rgba(255, 255, 255, 0.876);
+  cursor: pointer;
+}
+button{
+    background-color: transparent;
+    border: none;
+}
+.fa-bars{
+    color: black;
+    width: 20px;
+    height: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    color: #ffffff8f;
+}
+/* sec line  */
+.sec {
+    background-color: rgb(34, 37, 57);
+    overflow: hidden;
+    /* border: 2px solid red; */
+}
+ul {
+    padding-bottom: 0px;
+    margin: 0px;
+}
+ul li{
+    float: left;
+    list-style: none;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 0px 5px;
+}
+sup {
+    color: red;
+    position: relative;
+    top: 4px;
+    left: -1174px;
+    display: inline-block;
+    font-size: 12px;
+}
+.side {
+    margin-left: 420px;
+
+}
+#s{
+    color: red;
+    position: relative;
+    top: -14px;
+    left: -255px;
+    font-size: 11px;
+}
+.pic1{
+    border: 2px solid red;
+    width: 100px;
+    height: 300px;
+    display: inline-block;
+   
+}
+.pic2{
+    border: 2px solid green;
+    width: 100px;
+    margin-left: 100px;
+    display: inline-block;
+    height: 300px;
+   
+}
+.pic3{
+    border: 2px solid yellow;
+    width: 100px;
+    display: inline-block;
+    margin-left: 100px;
+    height: 300px;
+}
